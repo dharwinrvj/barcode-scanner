@@ -1,7 +1,12 @@
 # barcode-scanner
-## Scanner for decoding Barcodes and QRcod
+## Scanner for decoding Barcodes and QRcodes
+## QR-Code Generator: https://www.the-qrcode-generator.com
 ## Demo
+### For barcode-scanner-video.py
+
 <img src="/Demo images/7.gif">
+
+### For barcode-scanner-image.py
 <img src="/Demo images/6.JPG">
 <img src="/Demo images/1.JPG">
 <img src="/Demo images/2.JPG">
